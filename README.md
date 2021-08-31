@@ -1,5 +1,7 @@
 ## [www.trashrobot.org](https://www.trashrobot.org)
 
+[https://github.com/LafeLabs/trashcore](https://github.com/LafeLabs/trashcore)
+
 # TRASHCORE
 
 The TRASHCORE aesthetic can mean many things but we use it here to transmit the ideas of Trash Magic, and it has a few specific elements:
@@ -34,7 +36,8 @@ Some specific products currently available are:
  - TRASH ROBOT T SHIRTS
  - RASPBERRY PI GEOMETRON SERVERS
 
- 
+TRASHCORE products can be produced in a [TRASHSPACE](https://github.com/LafeLabs/trashspace)
+
 ![](https://i.imgur.com/8722ISz.jpg)
 ![](https://i.imgur.com/LaOEeyG.jpg)
 ![](https://i.imgur.com/8u8S5pX.jpg)
