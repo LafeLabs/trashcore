@@ -2,6 +2,10 @@
 
 [https://github.com/LafeLabs/trashcore](https://github.com/LafeLabs/trashcore)
 
+[bioweb self replicating media](https://github.com/LafeLabs/bioweb)
+
+[localhost/](http://localhost/)
+
 # TRASHCORE
 
 The TRASHCORE aesthetic can mean many things but we use it here to transmit the ideas of Trash Magic, and it has a few specific elements:
